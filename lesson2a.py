@@ -15,8 +15,8 @@ print("The car on index four is: ", cars[4])
 #list slicing - This is creating a list from a given bigger list 
 print(cars[4:])
 
-#print from index zero index to third index
-print(cars[4:])
+#print from index zero index to three
+print(cars[:4])
 
 #printing from hiance to probox
 print(cars[2:5])
@@ -29,4 +29,14 @@ print(cars)
 cars.append("Subaru")
 print(cars)
 
-#We use pop function to remobe 
+#We use pop function to remove an item at the end of the list
+cars.pop()
+print(cars)
+
+# We can use an index to add items to a list
+cars[5] = "Pajero"
+print(cars)
+
+# We can use the function to sort out the items in alphabebitcal order
+cars.sort()
+print(cars)
