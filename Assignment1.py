@@ -2,7 +2,7 @@
 
 weight = 78
 heightsquared = 1.75
-BMI = (weight/heightsquared)
+BMI = (weight)/(heightsquared)**2
 print("The BMI is: ", BMI)
 
 # 2.Find the Area and Perimeter of a rectangle whose length is 48cm and width is 25cm.
