@@ -38,3 +38,22 @@ print("The Floor division of the two numbers is: ", floor)
 number11 = 10
 exponent = number11 ** 2
 print("The exponent of the number is: ", exponent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
