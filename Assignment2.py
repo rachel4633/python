@@ -5,4 +5,4 @@
 planet = ("Mercury", "Mars", "Earth", "Venus", "Jupiter", "Neptune", "Pluto", "Uranus")
 print(planet)
 
-print(planet[2:6])
+print(planet[2:7])
